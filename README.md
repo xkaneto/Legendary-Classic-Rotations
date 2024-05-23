@@ -1,5 +1,5 @@
-# Epic-WOTLK-Rotations
-All of the Epic WotLK rotations by Gojira and xKaneto which are powered by the Hekili Addon.
+# Epic-Classic-Rotations
+All of the Epic Classic rotations by Gojira and xKaneto which are powered by the Hekili Addon.
 
 For Healing specs and some low level Classes (Priest, Druid), Hekili does not have a rotation prio available.
 You can easily add new spells to an existing priority or even build a totally new one by following these steps:
